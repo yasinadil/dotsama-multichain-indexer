@@ -1,7 +1,7 @@
 manifestVersion: subsquid.io/v0.1
-name: multichain-transfers-squid
+name: dotsama-multichain-indexer
 version: 1
-description: 'A squid that indexes USDC transfers on ETH and BSC'
+description: 'Indexes Dotsama NFT Marketplace trades, royalties and cancellations on Astar and Moonbeam'
 build: 
 deploy:
   addons:
